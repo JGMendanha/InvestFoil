@@ -6,7 +6,7 @@ Sistema para gerenciamento de carteiras de investimentos, que possibilita o cada
 
 ### Backend
 - Java 17
-- Spring Boot 3.x
+- Spring Boot 3.5
 - Spring Data JPA
 - Spring Web
 - PostgreSQL

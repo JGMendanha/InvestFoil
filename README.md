@@ -45,7 +45,6 @@ Sistema para gerenciamento de carteiras de investimentos, que possibilita o cada
 - http://localhost:5173
 
 ## Endpoints 
-## Endpoints e Funcionalidades da API
 
 | Método | Endpoint                           | Descrição                              |
 |------|-----------------------------------|----------------------------------------|
